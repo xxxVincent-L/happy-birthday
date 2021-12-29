@@ -1,9 +1,9 @@
 {
   "greeting": "Hi",
-  "name": "Floyd",
-  "greetingText": "I really like your name btw!",
+  "name": "晨哥",
+  "greetingText": "今天是什么日子呢？",
   "wishText": "Hope you can have a life that satisfies you! ;)",
-  "imagePath": "img/Floyd.jpg",
+  "imagePath": "img/pwc.jpg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
